@@ -1,0 +1,62 @@
+.navbar-nav li{
+    font-weight: bold;
+    font-family: Bitter,Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
+.line{
+    margin-top: -20px;
+}
+#footer{
+    font-weight: bold;
+    
+    font-family: Bitter,Georgia, 'Times New Roman', Times, serif;
+    background-color: #211f22;
+    padding: 10px;
+    color: #eeeeee;
+    text-align: center;
+    background-position-x: center;
+}
+#blog-post{
+    background-color: #f5f5f5;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+#heading{
+    color: #005e90;
+    font-weight: bold;    
+    font-family: Bitter,Georgia, 'Times New Roman', Times, serif;
+   
+}
+#heading:hover{
+    color: #0090Db;
+}
+.description{
+    font-weight: bold;
+    color:#868686 ;
+    margin-top: -2px;
+}
+.post{
+    text-align: justify;
+    font-size: 1.3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn-info{
+    float:right;
+}
+.fieldInfo{
+    color: chocolate;
+    font-weight: bold;    
+    font-family: Bitter,Georgia, 'Times New Roman', Times, serif;
+   
+}
+.imageicon{
+    max-width: 150px;
+    margin: 0 auto;
+    display: block;
+
+}
+.background{
+    background-color: #f6f7f9;
+}
